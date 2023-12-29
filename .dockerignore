@@ -1,0 +1,9 @@
+.dockerignore
+.DS_Store
+.env*
+.byebug_history
+log/*
+tmp/*
+node_modules
+config/master.key
+dist
